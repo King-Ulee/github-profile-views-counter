@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/730933649/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/730933649/week.md">
 				github-profile-views-counter
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			99
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 707
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 707
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/653294232/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/653294232/week.md">
 				King-Genshin-StarRail-Stats
 			</a>
 		</td>
@@ -48,12 +48,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			792
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 6404
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 6404
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
 				Announcements-Anime
 			</a>
 		</td>
@@ -64,12 +64,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			215
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 1936
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 1936
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/686961797/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/686961797/week.md">
 				Status-Page-Advanced
 			</a>
 		</td>
@@ -80,12 +80,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			157
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/686961797/small/week.png" height="20"> 906
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/686961797/small/week.png" height="20"> 906
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/736731255/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/736731255/week.md">
 				Daily-Weather-Report
 			</a>
 		</td>
@@ -96,13 +96,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			257
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/736731255/small/week.png" height="20"> 3568
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/736731255/small/week.png" height="20"> 3568
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/306456465/week.md">
-				Julius-Ulee
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/306456465/week.md">
+				King-Ulee
 			</a>
 		</td>
 		<td>
@@ -112,12 +112,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			176
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3255
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3255
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
 				School-Programs
 			</a>
 		</td>
@@ -128,12 +128,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			113
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 2455
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 2455
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/605888225/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/605888225/week.md">
 				AmeliaBot-Discord
 			</a>
 		</td>
@@ -144,12 +144,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			343
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 1791
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 1791
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/721026879/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/721026879/week.md">
 				My-Awesome-Stars
 			</a>
 		</td>
@@ -160,13 +160,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			88
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 346
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 346
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/662145992/week.md">
-				julius-ulee.github.io
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/662145992/week.md">
+				king-ulee.github.io
 			</a>
 		</td>
 		<td>
@@ -176,19 +176,19 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			46
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/662145992/small/week.png" height="20"> 150
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/662145992/small/week.png" height="20"> 150
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/4/14 7:52 AM UTC</i></small>
+<small><i>Last updated on 2026/4/14 1:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/Julius-Ulee/github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter)
+[![Image of https://github.com/King-Ulee/github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter)
 
 ```readme
-[![Image of https://github.com/Julius-Ulee/github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter)
+[![Image of https://github.com/King-Ulee/github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

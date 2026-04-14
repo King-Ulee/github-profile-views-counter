@@ -1,8 +1,8 @@
-## [🔙 github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter)
-| [**Week →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md) | [**Month →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/month.md) | [**Year →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/year.md) |
+## [🔙 github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter)
+| [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/large/week.png)
+### :octocat: [King-Genshin-StarRail-Stats](https://github.com/King-Ulee/King-Genshin-StarRail-Stats)
+![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/653294232/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -110,18 +110,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/4/14 7:51 AM UTC</i></small>
+<small><i>Last updated on 2026/4/14 1:48 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
 ```
 ### Header
-# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
 ```readme
-# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
