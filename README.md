@@ -165,23 +165,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/662145992/week.md">
+			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/1212094372/week.md">
 				king-ulee.github.io
 			</a>
 		</td>
 		<td>
-			2026/4/14 2:49 AM UTC
+			2026/4/13 12:00 AM UTC
 		</td>
 		<td>
-			46
+			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/662145992/small/week.png" height="20"> 150
+			<img alt="Response time graph" src="https://github.com/King-Ulee/github-profile-views-counter/raw/master/graph/1212094372/small/week.png" height="20"> 0
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/4/16 2:54 AM UTC</i></small>
+<small><i>Last updated on 2026/4/16 7:52 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

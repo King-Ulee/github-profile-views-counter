@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter)
-| [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/year.md) |
+| [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [Announcements-Anime](https://github.com/King-Ulee/Announcements-Anime)
-![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/738176371/large/year.png)
+### :octocat: [king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io)
+![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1212094372/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2026/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2026/3/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +46,10 @@
 			<code>2026/2/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2025/10/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -101,10 +101,10 @@
 			<code>2025/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -112,10 +112,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +123,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -134,10 +134,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -145,10 +145,10 @@
 			<code>2025/5/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,27 +156,27 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>45</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/4/16 7:51 AM UTC</i></small>
+<small><i>Last updated on 2026/4/16 7:52 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/week.md)
+[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1212094372/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/week.md)
+[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1212094372/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```
 ### Header
-# Announcements-Anime [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/week.md)
+# king-ulee.github.io [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1212094372/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```readme
-# Announcements-Anime [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/738176371/week.md)
+# king-ulee.github.io [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1212094372/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

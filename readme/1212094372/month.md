@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter)
-| [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/year.md) |
+| [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [AmeliaBot-Discord](https://github.com/King-Ulee/AmeliaBot-Discord)
-![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/605888225/large/month.png)
+### :octocat: [king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io)
+![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1212094372/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -57,10 +57,10 @@
 			<code>2026/4/13</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2026/4/11</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2026/4/10</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,10 +156,10 @@
 			<code>2026/4/4</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -189,10 +189,10 @@
 			<code>2026/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -255,10 +255,10 @@
 			<code>2026/3/26</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -288,10 +288,10 @@
 			<code>2026/3/23</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -367,14 +367,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/605888225/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/week.md)
+[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1212094372/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/605888225/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/week.md)
+[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1212094372/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```
 ### Header
-# AmeliaBot-Discord [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/605888225/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/week.md)
+# king-ulee.github.io [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1212094372/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```readme
-# AmeliaBot-Discord [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/605888225/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/605888225/week.md)
+# king-ulee.github.io [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1212094372/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1212094372/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
